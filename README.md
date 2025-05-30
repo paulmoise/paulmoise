@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 💻 I have 1.5 years of experience as a **Full-Stack Software Developer**, working with **Django REST Framework** for backend and **React** for frontend.
 
+👨‍💻 For the past two years, I've been an **Apprentice Generative AI Engineer at Amadeus**, where I designed and deployed AI-powered solutions, including an LLM-based chatbot using **RAG architecture** to enable natural language queries over 1,200+ pages of technical documentation.
+
 🔍 I'm deeply curious about the **inner workings of AI models** — how they learn, generalize, and can be optimized for real-world tasks.
 
 🚀 My goal: becoming a **ML/AI Engineer** — ready to tackle practical challenges in AI and make a positive impact.
