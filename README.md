@@ -59,11 +59,13 @@ Here are some of my highlighted projects:
 ---
 
 ## 📫 Let's connect
-- [LinkedIn](https://www.linkedin.com/in/paulmoise/)
+- [LinkedIn](https://https://www.linkedin.com/in/paulmoise-gangbadja-1b173b168/)
 - [GitHub](https://github.com/paulmoise)
 - [Email](mailto:m.gangbadja@gmail.com)
 
 ---
+
+[![Paulmoise's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulmoise)](https://github.com/paulmoise/github-readme-stats)
 
 Thanks for stopping by! 🚀
 
