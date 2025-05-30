@@ -69,5 +69,7 @@ Here are some of my highlighted projects:
 
 [![Paulmoise's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulmoise)](https://github.com/paulmoise/github-readme-stats)
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulmoise&layout=compact&langs_count=8"/>
+
 Thanks for stopping by! 🚀
 
